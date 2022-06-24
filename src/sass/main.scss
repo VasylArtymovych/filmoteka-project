@@ -1,4 +1,9 @@
-@import './common';
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+// Стили для файла с примером HTML-фрагмента
+
 @import './container.scss';
 @import './variables';
 @import './mixin.scss';
@@ -15,5 +20,3 @@
 @import './trailer';
 @import './onSearch-noresults';
 @import './scroll-to-top-btn';
-
-
