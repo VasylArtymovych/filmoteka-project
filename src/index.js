@@ -9,5 +9,5 @@ import './js/switcher';
 import './js/renderMoviesAndPagination';
 import './js/my-library/myLibraryBtn';
 import './js/scrollToTopBtn';
-// import './js/firebase';
-// import './js/modal-login.js';
+import './js/firebase';
+import './js/modal-login.js';
